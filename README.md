@@ -5,3 +5,5 @@ Screenshots
 
 ![Screenshot](https://github.com/BossLevan/dribbbletravelui/blob/master/Screenshot%20(23).png)
 
+![Screenshot](https://github.com/BossLevan/dribbbletravelui/blob/master/Screenshot%20(24).png)
+
